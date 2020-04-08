@@ -22,8 +22,14 @@ p{
     background: gray;
     width: 70%;
     margin: auto;
-    margin-top: 40px;
     border: 1px solid red;
+}
+
+.container-cabecera{
+    display: flex;
+    justify-content: space-around;
+    border: 1px dashed blue;
+    background: violet;
 }
 
 ul{
