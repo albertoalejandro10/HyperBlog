@@ -4,39 +4,50 @@
 }
 
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: monospace;
     text-align: center;
 }
 
+img{
+    width: 50px;
+}
+
 h1{
-    color: mediumaquamarine;
+    color: black;
 }
 
 p{
-    color: blue;
+    color: lawngreen;
     font-size:16px;
     font-weight: bold;
 }
 
+.title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 200px;
+}
+
 .container{
-    background: gray;
+    background: darkslategray;
     width: 70%;
     margin: auto;
-    border: 1px solid red;
+    border: 1px solid lime;
 }
 
 .container-cabecera{
+    padding: 10px 0px;
+    justify-content: center;
     display: flex;
-    justify-content: space-around;
-    border: 1px dashed blue;
-    background: violet;
+    background: rgb(66, 66, 53);
 }
 
-ul{
-    list-style: none;
+.centrar{
+    display: inline-block;
+    align-self: center;
 }
 
-li{
-    display: flex;
-    flex-direction: column;
+img{
+    margin-right: 10px;
 }
