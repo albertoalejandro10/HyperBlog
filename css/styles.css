@@ -51,3 +51,10 @@ p{
 img{
     margin-right: 10px;
 }
+
+footer{
+    background: gold;
+    color: black;
+    width: 70%;
+    margin: auto;
+}
