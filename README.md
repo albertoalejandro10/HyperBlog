@@ -1,6 +1,6 @@
 # Blog desarrollado para aprender Git y GitHub :tw-1f3c6:
 
-<center>![GitHub](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg)</center>
+<center>![GitHub](https://i.imgur.com/PdNxa1X.jpg)</center>
 
 #### En este curso logre aprender mucho sobre Git y GitHub.
 ##### Por ejemplo.
